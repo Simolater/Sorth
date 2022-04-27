@@ -1,0 +1,8 @@
+func add_func int int -- int {
+    +
+}
+
+func la {
+    5 5 add_func
+    drop
+}
